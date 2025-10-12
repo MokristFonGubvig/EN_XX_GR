@@ -392,17 +392,35 @@ let en_19XX_gr = [
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Electric Light Orchestra',
-			song : 'Mr. Blue Sky (1978)'
+			song : 'Mr. Blue Sky (1978)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Electric Light Orchestra',
-			song : "Don't Bring Me Down (1979)"
+			song : "Don't Bring Me Down (1979)",
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Electric Light Orchestra',
-			song : 'Evil Woman (1975)'
+			song : 'Evil Woman (1975)',
+			ignore : true
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Rolling Stones',
+			song : 'Angie (1973)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Rolling Stones',
+			song : 'Paint It Black (1966)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Rolling Stones',
+			song : "(I Can't Get No) Satisfaction (1965)"
 		}
 ];
 
