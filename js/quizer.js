@@ -348,7 +348,7 @@ const en_19XX_gr_icon = [
 
 const EN_19XX_GR_PACK_1 = 1;
 
-let en_19XX_m = [
+let en_19XX_gr = [
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Fleetwood Mac',
