@@ -436,6 +436,22 @@ let en_19XX_gr = [
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Led Zeppelin',
 			song : 'Whole Lotta Love (1969)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Pink Floyd',
+			song : 'Money (1973)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Pink Floyd',
+			song : 'Any Colour You Like (1973)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Pink Floyd',
+			song : 'Time (1974)'
+		}
 ];
 
 let en_19XX_gr_1 =	en_19XX_gr.filter(item => item.pack == 1);
