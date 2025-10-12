@@ -343,7 +343,7 @@ function load(){
 
 // EN songs
 const en_19XX_gr_icon = [
-	'pop'
+	'rock'
 ];
 
 const EN_19XX_GR_PACK_1 = 1;
@@ -421,7 +421,21 @@ let en_19XX_gr = [
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Rolling Stones',
 			song : "(I Can't Get No) Satisfaction (1965)"
-		}
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Led Zeppelin',
+			song : 'Immigrant Song (1970)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Led Zeppelin',
+			song : 'Stairway to Heaven (1971)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Led Zeppelin',
+			song : 'Whole Lotta Love (1969)'
 ];
 
 let en_19XX_gr_1 =	en_19XX_gr.filter(item => item.pack == 1);
@@ -435,7 +449,7 @@ let music = [
 		packs: [
 				{
 					arr: en_19XX_gr_1,
-					name: 'EN 19XXs Groups: Pop',
+					name: 'EN 19XXs Groups: Rock',
 				}
 			]
 	}
