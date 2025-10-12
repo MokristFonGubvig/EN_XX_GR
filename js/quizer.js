@@ -351,8 +351,58 @@ const EN_19XX_GR_PACK_1 = 1;
 let en_19XX_m = [
 		{
 			pack : EN_19XX_GR_PACK_1,
-			group : 'Justin Bieber',
-			song : 'Baby'
+			group : 'Fleetwood Mac',
+			song : 'Albatross (1968)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Fleetwood Mac',
+			song : 'Dreams (1977)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Fleetwood Mac',
+			song : 'Go Your Own Way (1976)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Jefferson Airplane',
+			song : 'Somebody to Love (1967)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Jefferson Airplane',
+			song : 'White Rabbit (1967)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Supertramp',
+			song : 'The Logical Song (1979)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Supertramp',
+			song : 'Breakfast in America (1979)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Supertramp',
+			song : 'Goodbye Stranger (1979)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Electric Light Orchestra',
+			song : 'Mr. Blue Sky (1978)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Electric Light Orchestra',
+			song : "Don't Bring Me Down (1979)"
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Electric Light Orchestra',
+			song : 'Evil Woman (1975)'
 		}
 ];
 
