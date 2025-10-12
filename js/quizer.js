@@ -410,7 +410,7 @@ let en_19XX_gr_1 =	en_19XX_gr.filter(item => item.pack == 1);
 
 let music = [
 	{
-		arr: en_19XX_m,
+		arr: en_19XX_gr,
 		lang: 'en',
 		year: '19XX',
 		type: 'm',
