@@ -451,6 +451,16 @@ let en_19XX_gr = [
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Pink Floyd',
 			song : 'Time (1974)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Chic',
+			song : 'Le Freak (1978)'
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Chic',
+			song : 'Good Times (1979)'
 		}
 ];
 
