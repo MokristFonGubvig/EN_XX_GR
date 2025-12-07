@@ -357,12 +357,14 @@ let en_19XX_gr = [
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Fleetwood Mac',
-			song : 'Dreams (1977)'
+			song : 'Dreams (1977)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Fleetwood Mac',
-			song : 'Go Your Own Way (1976)'
+			song : 'Go Your Own Way (1976)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
@@ -377,17 +379,20 @@ let en_19XX_gr = [
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Supertramp',
-			song : 'The Logical Song (1979)'
+			song : 'The Logical Song (1979)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Supertramp',
-			song : 'Breakfast in America (1979)'
+			song : 'Breakfast in America (1979)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Supertramp',
-			song : 'Goodbye Stranger (1979)'
+			song : 'Goodbye Stranger (1979)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
@@ -410,7 +415,8 @@ let en_19XX_gr = [
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Rolling Stones',
-			song : 'Angie (1973)'
+			song : 'Angie (1973)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
@@ -425,12 +431,14 @@ let en_19XX_gr = [
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Led Zeppelin',
-			song : 'Immigrant Song (1970)'
+			song : 'Immigrant Song (1970)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Led Zeppelin',
-			song : 'Stairway to Heaven (1971)'
+			song : 'Stairway to Heaven (1971)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
@@ -440,27 +448,32 @@ let en_19XX_gr = [
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Pink Floyd',
-			song : 'Money (1973)'
+			song : 'Money (1973)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Pink Floyd',
-			song : 'Any Colour You Like (1973)'
+			song : 'Any Colour You Like (1973)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Pink Floyd',
-			song : 'Time (1974)'
+			song : 'Time (1974)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Chic',
-			song : 'Le Freak (1978)'
+			song : 'Le Freak (1978)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Chic',
-			song : 'Good Times (1979)'
+			song : 'Good Times (1979)',
+			ignore : true
 		}
 ];
 
