@@ -443,7 +443,8 @@ let en_19XX_gr = [
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Led Zeppelin',
-			song : 'Whole Lotta Love (1969)'
+			song : 'Whole Lotta Love (1969)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
@@ -474,6 +475,11 @@ let en_19XX_gr = [
 			group : 'Chic',
 			song : 'Good Times (1979)',
 			ignore : true
+		},
+		{
+			pack : EN_19XX_GR_PACK_1,
+			group : 'Led Zeppelin',
+			song : 'Whole Lotta Love (1969)'
 		}
 ];
 
