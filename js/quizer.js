@@ -352,7 +352,8 @@ let en_19XX_gr = [
 		{
 			pack : EN_19XX_GR_PACK_1,
 			group : 'Fleetwood Mac',
-			song : 'Albatross (1968)'
+			song : 'Albatross (1968)',
+			ignore : true
 		},
 		{
 			pack : EN_19XX_GR_PACK_1,
