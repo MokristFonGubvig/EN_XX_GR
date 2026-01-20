@@ -491,7 +491,7 @@ let music = [
 		arr: en_19XX_gr,
 		lang: 'en',
 		year: '19XX',
-		type: 'm',
+		type: 'gr',
 		packs: [
 				{
 					arr: en_19XX_gr_1,
